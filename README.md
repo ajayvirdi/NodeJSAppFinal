@@ -1,2 +1,1 @@
-# NodeJSAppFinal
 # college-student-app
